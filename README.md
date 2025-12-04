@@ -2,7 +2,7 @@
 
 A console-based implementation of the A* pathfinding algorithm with visualization.
 
-## Features
+## Features 
 - A* pathfinding algorithm implementation
 - Grid-based navigation
 - Obstacle avoidance
